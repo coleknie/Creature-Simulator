@@ -16,4 +16,4 @@ java Simulator 8 2 0 3 1000 42
                | | '-number of inital zombie cats               
                | '- number of initial cats               
                '- number of initial mice
-               '''
+
