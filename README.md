@@ -1,5 +1,5 @@
 # Creature-Simulator
-A Creature Simulator GUI that represents Cat, Mice, Zombie Cats and Birds (Eggs)
+A Creature Simulator GUI that represents interactions between Cat, Mice, Zombie Cats and Birds (Eggs)
 
 Example of how to run code:
 
