@@ -2,7 +2,7 @@
 A Creature Simulator GUI that represents interactions between Cat, Mice, Zombie Cats and Birds (Eggs)
 
 You can run the simulator with the following arguments:
-'''java
+'''
 
                      .-- The initial number of eggs (that turn into birds)  
                      |   .-Number of rounds to simulate     
